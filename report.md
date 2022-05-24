@@ -185,17 +185,17 @@ if (lexer.getCurToken() != tok_identifier)
 
 `d[2][3] = [1,2,3,4,5,6]`成功识别
 
-![test_5](/Users/julia27/Documents/编译原理/tiny_project/figs/test_5.png)
+![test_5](https://github.com/Winter-Is-Coming-Stark/Data-Analyze/blob/main/test_5.png)
 
 ##### test6
 
 抽象语法树成功生成
 
-![test_6 ast](/Users/julia27/Documents/编译原理/tiny_project/figs/test_6 ast.png)
+![test_6 ast](https://github.com/Winter-Is-Coming-Stark/Data-Analyze/blob/main/test_6%20ast.png)
 
 成功计算三个矩阵数乘
 
-![test_6 jit](/Users/julia27/Documents/编译原理/tiny_project/figs/test_6 jit.png)
+![test_6 jit](https://github.com/Winter-Is-Coming-Stark/Data-Analyze/blob/main/test_6%20jit.png)
 
 ## 心得
 
